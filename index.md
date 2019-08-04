@@ -1,5 +1,3 @@
-![Markdown logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/200px-Markdown-mark.svg.png)
-
 # Първи стъпки с Markdown [маркдаун] :feet:
 
 **Маркдаун** е средство за конвертиране на обикновен текст в HTML-формат. Той е създаден да е лесен за четене и писане, и удобен за преобразуване в структурно валиден XHTML/HTML-формат.
