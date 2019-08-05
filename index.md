@@ -350,7 +350,7 @@ _Резултат:_
 
 `~задраскан текст~`
 
-~задраскан текст~
+<strike>задраскан текст</strike>
 
 <br/>
 
@@ -416,7 +416,9 @@ defunkt/github-flavored-markdown#1
 <br/>
 
 Допълнителна информация: :link:
+
 ************************
+
 [Daring Fireball: Markdown](https://daringfireball.net/projects/markdown/)
 
 [Markdown @ Wikipedia (en)](https://en.wikipedia.org/wiki/Markdown)
