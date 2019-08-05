@@ -1,8 +1,8 @@
-title: Markdown[Маркдаун]
+title: Markdown [Маркдаун]
 email:
-description: Първи стъпки с маркдаун!
+description: Въведение в маркдаун
 logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/200px-Markdown-mark.svg.png
-baseurl: /Markdown
+baseurl: /markdown
 url: hhtps://danny-dimitrov.github.io/
 
 theme: jekyll-theme-minimal
