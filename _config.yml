@@ -3,7 +3,7 @@ email:
 description: Въведение в маркдаун
 logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/200px-Markdown-mark.svg.png
 baseurl: /markdown
-url: hhtps://danny-dimitrov.github.io/
+url: htps://danny-dimitrov.github.io/
 
 theme: jekyll-theme-minimal
 plugins:
