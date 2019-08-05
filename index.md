@@ -121,10 +121,8 @@ _Курсивен_ текст
 
 [Проектът _маркдаун_ на Джон Грубър](https://daringfireball.net/projects/markdown/)
 
-<br/>
-
 #### Автоматично създадени линкове
-**********************************
+
 URL-линковете и имейл адресите се разпознават автоматично и се превръщат в интерактивни линкове. По желание могат да бъдат обградени в ъглови скоби `<>`.
 
 `<john.doe@email.com>`
@@ -414,11 +412,11 @@ defunkt/github-flavored-markdown#1
 
 [2]: <https://daringfireball.net/projects/markdown/basics>
 
----
+
 <br/>
 
 Допълнителна информация: :link:
-
+************************
 [Daring Fireball: Markdown](https://daringfireball.net/projects/markdown/)
 
 [Markdown @ Wikipedia (en)](https://en.wikipedia.org/wiki/Markdown)
