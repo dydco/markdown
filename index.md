@@ -361,7 +361,7 @@ _Резултат:_
 
 ```html
 <!DOCTYPE html>
-<html lang="bg">
+<html lang="bg-BG">
   <head>
     <title>Това е ограден сектор с компютърен код</title>
   </head>
