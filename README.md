@@ -2,7 +2,7 @@
 
 :warning: **WORK IN PROGRESS** :warning:
 
-The **Markdown repository** is intended to introduce **_Bulgarian speakers_** to the use of the markdown language syntax. Therefore, all of the following instructions and documentation will be exclusively in _Bulgarian_.
+:heavy_exclamation_mark: The **Markdown repository** is intended to introduce **_Bulgarian speakers_** to the use of the markdown language syntax. Therefore, all of the following instructions and documentation will be exclusively in _Bulgarian_. :heavy_exclamation_mark:
 
 Хранилището **Markdown** съдържа инструкции за основния и разширен синтаксис на _маркдаун_ на български език. Инструкциите са систематизирани в раздели. Всеки раздел съдържа:  
     - _кратко пояснение_, последвано от  
@@ -11,5 +11,4 @@ The **Markdown repository** is intended to introduce **_Bulgarian speakers_** to
 
 Предложения при открити пропуски, грешки и корекции са добре дошли!
 
-<https://danny-dimitrov.github.io/markdown/>
-
+:link: <http://bit.ly/markdown-bg/>
