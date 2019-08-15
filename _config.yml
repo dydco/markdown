@@ -1,20 +1,11 @@
 title: Markdown[Маркдаун]
 email:
 description: Въведение в маркдаун на български език
-### Свалете своя маркдаун "пищов" в PDF-формат [тук](/downloads/markdown_cheat_sheet_bulgarian.pdf)! :gun:
 logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/200px-Markdown-mark.svg.png
 baseurl: /markdown
 url: htps://danny-dimitrov.github.io/
 show_downloads: true
-google_analytics: <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145771380-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-145771380-1');
-</script>
+google_analytics: UA-145771380-1
 
 theme: jekyll-theme-minimal
 plugins:
