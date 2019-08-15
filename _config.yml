@@ -4,7 +4,6 @@ description: Въведение в маркдаун на български ез
 logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/200px-Markdown-mark.svg.png
 baseurl: /markdown
 url: htps://danny-dimitrov.github.io/
-show_downloads: true
 google_analytics: UA-145771380-1
 
 theme: jekyll-theme-minimal
