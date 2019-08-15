@@ -409,7 +409,7 @@ defunkt/github-flavored-markdown#1
 <br/>
 
 :arrow_down:  :arrow_down:  :arrow_down:
-### Свалете своя маркдаун "пищов" в .pdf-формат [тук](/downloads/markdown_cheat_sheet_bulgarian.pdf)! :gun:
+### Свалете своя маркдаун „пищов“ в .pdf-формат [тук](/downloads/markdown_cheat_sheet_bulgarian.pdf)! :gun:
 ************************
 <br/>
 
