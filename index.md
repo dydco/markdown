@@ -420,4 +420,4 @@ defunkt/github-flavored-markdown#1
 
 [Interactive Markdown Tutorial](https://www.markdowntutorial.com/)
 
-###### Свалете своя маркдаун "пищов" в PDF-формат [тук](#)! :gun:
+### Свалете своя маркдаун "пищов" в PDF-формат [тук](/downloads/markdown_cheat_sheet_bulgarian.pdf)! :gun:
