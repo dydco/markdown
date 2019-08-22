@@ -12,4 +12,6 @@
 
 
 ************************
+Markdown logo, courtesy of Dustin Curtis (@dcurtis) [CC0] via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Markdown-mark.svg)
+
 PS. _Предложения при открити пропуски, грешки и корекции са добре дошли!_
