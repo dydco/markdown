@@ -404,7 +404,7 @@ defunkt/github-flavored-markdown#1
 
 `:octocat:` :octocat:
 
-Освежете проекта си с тези [емотикони](https://www.webfx.com/tools/emoji-cheat-sheet/).
+Кодовете на повечето популярни емотикони, с които да освежите проекта си, можете да намерите [тук](https://www.webfx.com/tools/emoji-cheat-sheet/).
 
 <br/>
 
