@@ -142,7 +142,7 @@ URL-линковете и имейл адресите се разпознава�
 
 `![Наименование на изображението](http:// интернет адрес на изображението "Наименование на изображението като подсказка")`
 
-`![Bird view of Manhattan, courtesy of Public Domain Archive](https://www.publicdomainarchive.com/wp-content/uploads/2014/02/public-domain-images-free-high-resolution-quality-photos-unsplash-0229.jpg "Bird view of Manhattan")`
+`![Empire State Building as viewed from a terrace at Google's New York City office, Courtesy of Daniel Dimitrov](https://commons.wikimedia.org/wiki/File:View_from_the_terrace_of_Google_s_New_York_office.jpg "Empire State Building as viewed from a terrace at Google's New York City office, Courtesy of Daniel Dimitrov")`
 
 ![Bird view of Manhattan, courtesy of Public Domain Archive](https://www.publicdomainarchive.com/wp-content/uploads/2014/02/public-domain-images-free-high-resolution-quality-photos-unsplash-0229.jpg "Bird view of Manhattan")
 
