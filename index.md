@@ -142,10 +142,9 @@ URL-линковете и имейл адресите се разпознава�
 
 `![Наименование на изображението](http:// интернет адрес на изображението "Наименование на изображението като подсказка")`
 
-`![Empire State Building as viewed from a terrace at Google's New York City office, Courtesy of Daniel Dimitrov](https://commons.wikimedia.org/wiki/File:View_from_the_terrace_of_Google_s_New_York_office.jpg "Empire State Building as viewed from a terrace at Google's New York City office, Courtesy of Daniel Dimitrov")`
+`![Empire State Building as viewed from a terrace at Google's New York City office, Courtesy of Daniel Dimitrov CC BY-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/View_from_the_terrace_of_Google_s_New_York_office.jpg/640px-View_from_the_terrace_of_Google_s_New_York_office.jpg "Empire State Building as viewed from a terrace at Google's New York City office, Courtesy of Daniel Dimitrov")`
 
-![Bird view of Manhattan, courtesy of Public Domain Archive](https://www.publicdomainarchive.com/wp-content/uploads/2014/02/public-domain-images-free-high-resolution-quality-photos-unsplash-0229.jpg "Bird view of Manhattan")
-
+![Empire State Building as viewed from a terrace at Google's New York City office, Courtesy of Daniel Dimitrov CC BY-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/View_from_the_terrace_of_Google_s_New_York_office.jpg/640px-View_from_the_terrace_of_Google_s_New_York_office.jpg "Empire State Building as viewed from a terrace at Google's New York City office, Courtesy of Daniel Dimitrov CC BY-SA 4.0")
 <br/>
 
 ### Цитати :speech_balloon:
